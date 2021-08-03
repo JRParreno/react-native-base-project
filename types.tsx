@@ -20,3 +20,12 @@ export type TabOneParamList = {
 export type TabTwoParamList = {
   TabTwoScreen: undefined;
 };
+
+
+// uncomment this to use non auth screens
+// export type NonAuthParamList = {
+//   "Landing Page": undefined;
+//   Login: undefined;
+//   Registration: undefined;
+//   ForgotPassword: undefined;
+// };
